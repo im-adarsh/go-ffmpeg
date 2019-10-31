@@ -491,7 +491,7 @@ func (m *Mediafile) ToStrCommand() []string {
 		"InputInitialOffset",
 		"InputPath",
 		"HideBanner",
-
+		"OtherOptions",
 		"Aspect",
 		"Resolution",
 		"FrameRate",
